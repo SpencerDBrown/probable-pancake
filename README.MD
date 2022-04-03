@@ -22,3 +22,5 @@ Lastly the footer, everything is linked aside from the phonenumber, I even thoug
 on both twitter/spotify to those buttons! Worked like a charm!
 
 Overall the homework was a challenge but a good and welcomed one! I learned a lot and im excited for the next one!
+
+LINK: https://spencerdbrown.github.io/week-02-homework/
